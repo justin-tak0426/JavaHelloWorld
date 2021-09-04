@@ -9,5 +9,6 @@ public class Main {
 		System.out.print("이름 입력 : ");
 		String name = s.next();
 		System.out.println("["+name+"]님 환영합니다~");
+		System.out.println("프로그램을 종료합니다~");
 	}
 }
